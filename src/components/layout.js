@@ -12,7 +12,7 @@ import Footer from "./footer"
 import Header from "./header"
 import HeroImage from "./heroImage"
 import "./layout.css"
-import Values from "./values"
+import Skills from "./skills"
 
 const Layout = () => {
 
@@ -21,7 +21,7 @@ const Layout = () => {
       <Banner />
       <Header />
       <HeroImage />
-      <Values />
+      <Skills />
       <Footer />
     </>
   )

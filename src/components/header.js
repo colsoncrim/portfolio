@@ -51,7 +51,6 @@ const Header = props => {
       w="100%"
       mb={8}
       p={8}
-      borderBottom="1px"
       bg={["#04284E", "#04284E", "transparent", "transparent"]}
       color={["black", "black", "primary.700", "primary.700"]}
       {...props}
